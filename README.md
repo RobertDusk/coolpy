@@ -10,5 +10,7 @@ A currated collection of cool python libraries
 
 - [simple-term-menu](https://github.com/IngoMeyer441/simple-term-menu) - simple-term-menu creates simple menus for interactive command line programs. It can be used to offer a choice of different options to the user. Menu entries can be selected with the arrow, j/k, or emacs (C-n/C-p) keys. The module uses the terminfo database to detect terminal features automatically and disables styles that are not available. Currently, Linux and macOS are supported.
 
-## Compilers
+## Compilers / Bundlers
 - [Nuitka](https://github.com/Nuitka/Nuitka)
+
+- [pyinstaller](https://github.com/pyinstaller/pyinstaller) - PyInstaller bundles a Python application and all its dependencies into a single package. The user can run the packaged app without installing a Python interpreter or any modules.
