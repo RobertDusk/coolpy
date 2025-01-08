@@ -1,8 +1,8 @@
 ![banner](/banner.jpg "banner")
 
-A currated collection of cool python libraries
+A curated list of cool python libraries
 
-*Also see [this list of cool javascript libraries](https://github.com/RobertDusk/cooljs) or [this list of cool software projects](https://github.com/RobertDusk/cool)*
+*Also see [this list of cool javascript libraries](https://github.com/RobertDusk/cooljs) or [this list of cool software projects](https://github.com/RobertDusk/cool).*
 
 ## Text manipulation
 
