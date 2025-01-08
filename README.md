@@ -2,6 +2,8 @@
 
 A currated collection of cool python libraries
 
+*Also see [this list of cool javascript libraries](https://github.com/RobertDusk/cooljs) or [this list of cool software projects](https://github.com/RobertDusk/cool)
+
 ## Text manipulation
 
 - [Rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.The Rich API makes it easy to add color and style to terminal output. Rich can also render pretty tables, progress bars, markdown, syntax highlighted source code, tracebacks, and more — out of the box.
